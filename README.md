@@ -5,3 +5,5 @@ if the boundary is at a distance of 75m will he score a six?
 
 acceleration due to gravity = 9.81m/sec^2
 
+![path_of_ball_plotted](https://user-images.githubusercontent.com/74448981/102230617-1f7ac480-3f13-11eb-824b-e2ab463ae0a1.png)
+
